@@ -1,0 +1,20 @@
+- Register:
+  - username:
+    - text
+  - email:
+    - text
+  - name:
+    - text
+  - password:
+    - password
+    - false
+
+- Login:
+  - username:
+    - text
+    - false
+  - password:
+    - password
+    - false
+
+
